@@ -21,7 +21,7 @@ def show_chart(chartType, column):
 df_now = None
 text_input = ''
 
-st.title(AI Chart Generator")
+st.title("AI Chart Generator")
 
 uploaded_file = st.file_uploader("Choose a dataset file", type=['csv'])
 if uploaded_file is not None:
