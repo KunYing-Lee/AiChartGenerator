@@ -1,0 +1,6 @@
+langchain
+enum
+pydantic
+streamlit
+pandas
+os
