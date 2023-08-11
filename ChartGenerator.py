@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 import streamlit as st
 import pandas as pd
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_Key"
 
 def show_chart(chartType, column):
 
