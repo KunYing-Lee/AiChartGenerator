@@ -84,7 +84,6 @@ python-dateutil==2.8.2
 pyttsx3==2.90
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
 PyYAML==6.0.1
 referencing==0.30.2
 requests==2.31.0
