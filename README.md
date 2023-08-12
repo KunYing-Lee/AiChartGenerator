@@ -52,8 +52,8 @@ AI Chart Generator is a Streamlit web application that leverages OpenAI to help 
   ```bash
   streamlit run ChartGenerator.py
 </pre>
-or go to the website https://chartgenerator.streamlit.app/
-2. Enter your OpenAI API key in the provided input field.
+or go to the website https://chartgenerator.streamlit.app/  
+2. Enter your OpenAI API key in the provided input field.  
 3. Upload your dataset in CSV format.
 
 ### Configuration
